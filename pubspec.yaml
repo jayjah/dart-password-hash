@@ -5,7 +5,7 @@ homepage: https://github.com/stablekernel/dart-password-hash
 description: PBKDF2 password hashing utility
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.0.0 <2.12.0"
 
 dependencies:
   crypto: ^2.0.0
